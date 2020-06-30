@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="09db9d0c-0fe3-4cfb-be67-49d3f2420626" name="Default Changelist" comment="- Updated Class Utility and added a method to parse a file within the project&#10;- Added project's configuration files&#10;- Added Javadoc for class Utility">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/allclasses-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/allclasses-noframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/ch/hevs/isi/utils/Utility.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/ch/hevs/isi/utils/package-frame.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/ch/hevs/isi/utils/package-summary.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/ch/hevs/isi/utils/package-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/constant-values.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/deprecated-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/help-doc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index-files/index-9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/overview-tree.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/package-list" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javadoc/hei/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minecraft.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Minecraft.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch/hevs/isi/utils/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch/hevs/isi/utils/Utility.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e2TOa5hYaq6t7c5fetkKz6kIyu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Minecraft using modbus4j">
+    <configuration name="Minecraft using modbus4j" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ch.hevs.isi.MinecraftController" />
+      <module name="Minecraft" />
+      <option name="PROGRAM_PARAMETERS" value="influx.sdi.hevs.ch SIn40 localhost 1502 -modbus4j" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Minecraft" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ch.hevs.isi.MinecraftController" />
+      <module name="Minecraft" />
+      <option name="PROGRAM_PARAMETERS" value="influx.sdi.hevs.ch SIn40 localhost 1502" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Minecraft" />
+      <item itemvalue="Application.Minecraft using modbus4j" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09db9d0c-0fe3-4cfb-be67-49d3f2420626" name="Default Changelist" comment="- Updated Class Utility and added a method to parse a file within the project&#10;- Added project's configuration files&#10;- Added Javadoc for class Utility" />
+      <created>1593518656767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593518656767</updated>
+      <workItem from="1593518657897" duration="1953000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="193" key="#Project_Structure" timestamp="1593518634403">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="448" y="193" key="#Project_Structure/0.23.1920.1177@0.23.1920.1177" timestamp="1593518634403" />
+    <state x="424" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593518373724">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="424" y="273" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1593518373724" />
+    <state x="697" y="408" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593518330541">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="697" y="408" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1593518330541" />
+    <state x="704" y="327" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593520546595">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="704" y="327" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1177@0.23.1920.1177" timestamp="1593520546595" />
+    <state x="339" y="177" key="CommitChangelistDialog2" timestamp="1593518204881">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="339" y="177" key="CommitChangelistDialog2/0.23.1920.1177@0.23.1920.1177" timestamp="1593518204881" />
+    <state x="100" y="123" width="1720" height="977" key="DiffContextDialog" timestamp="1593518374533">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="100" y="123" width="1720" height="977" key="DiffContextDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1593518374533" />
+    <state width="939" height="322" key="GridCell.Tab.0.bottom" timestamp="1593518518414">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="939" height="322" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1593518518414" />
+    <state width="939" height="322" key="GridCell.Tab.0.center" timestamp="1593518518414">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="939" height="322" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1593518518414" />
+    <state width="939" height="322" key="GridCell.Tab.0.left" timestamp="1593518518413">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="939" height="322" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1593518518413" />
+    <state width="939" height="322" key="GridCell.Tab.0.right" timestamp="1593518518414">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="939" height="322" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1593518518414" />
+    <state x="644" y="533" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593518090566">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="644" y="533" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1920.1177@0.23.1920.1177" timestamp="1593518090566" />
+    <state x="497" y="408" key="git4idea.merge.GitPullDialog" timestamp="1593518108043">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="497" y="408" key="git4idea.merge.GitPullDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1593518108043" />
+  </component>
+</project>
