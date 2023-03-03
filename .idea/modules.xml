@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HEI.iml" filepath="$PROJECT_DIR$/HEI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Minecraft.iml" filepath="$PROJECT_DIR$/Minecraft.iml" />
     </modules>
   </component>
